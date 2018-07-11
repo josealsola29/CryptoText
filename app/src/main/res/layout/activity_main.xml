@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:style="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/linearlayoutMain"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_file"
+            android:layout_margin="16dp"
+            android:layout_gravity="bottom|end"/>
+
+
+
+
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/email_login_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="16dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:text="Cifrado AES"
+                android:textSize="24sp"
+                android:gravity="center"
+                tools:ignore="HardcodedText"
+                style="@style/TextAppearance.AppCompat.Display3"
+                />
+            <ImageView
+                android:layout_gravity="center"
+                android:src="@drawable/crypto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp">
+
+                <EditText
+                    android:id="@+id/editTextTextoPlano"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Tescto plano"
+                    android:inputType="textMultiLine"
+                    android:lines="3"
+                    android:minLines="3"
+                    android:maxLines="10" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp">
+
+                <EditText
+                    android:enabled="false"
+                    android:id="@+id/editTextTextoCifrado"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Texto cifrado"
+                    android:inputType="textMultiLine"
+                    android:lines="3"
+                    android:minLines="3"
+                    android:maxLines="10" />
+
+            </android.support.design.widget.TextInputLayout>
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_margin="32dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/buttonEncriptar"
+                style="?android:textAppearanceSmall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Encriptar"
+                android:textStyle="bold"
+                android:textColor="#FFFFFFFF"
+                android:layout_margin="16dp"
+                android:background="@color/colorAccent"
+                />
+
+            <Button
+                android:id="@+id/buttonDesencriptar"
+                style="?android:textAppearanceSmall"
+                android:layout_margin="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Desencriptar"
+                android:textColor="#FFFFFFFF"
+                android:background="@color/colorAccent"
+                android:textStyle="bold" />
+            <Button
+                android:id="@+id/buttonEmail"
+                style="?android:textAppearanceSmall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFFFF"
+                android:background="@color/colorAccent"
+                android:text="Enviar por correo"
+                android:layout_margin="16dp"
+                android:textStyle="bold" />
+            <Button
+                android:id="@+id/buttonDir"
+                style="?android:textAppearanceSmall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFFFF"
+                android:background="@color/colorAccent"
+                android:layout_margin="16dp"
+                android:text="Seleccionar Directorio"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</FrameLayout>

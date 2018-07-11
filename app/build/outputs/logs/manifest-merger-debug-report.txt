@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\874f4ac562d090cde4294b22eebc76a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\502c8f2b6878a3ea3571f4581f3cc6b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8174b5a02c6bfcfa6fa516112aa96e3a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.snatik:storage:2.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\storage-2.1.0.aar\d43d615420a594ae68c35f4b302509a6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.codekidX:storage-chooser:2.0.4.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\storage-chooser-2.0.4.2.aar\42bc4607291022b215954e9300281884\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\8cdfe32eb62dca9359b3e4e008deae69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2e99addcb0214b4bcce340608f35b8d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0a53089a1bbedfc6dc0863f92a8649b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ec045660ebafc164d0e375f31d210f75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0d5e4d2c3b0d0eff20700cb3886cb0c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\397e491df815f12d51375e2b38f768dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ef3bbea47c0ef678258c48456680c14c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e28040a5ea0845de6bdd141112abd4aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\786c0816fa0aa4b5838c5653d2e70e8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\b42b6e03fb1380c0809289dbad330a35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ac16e3af5fb85f2bbd9187a7f3ae1a44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f1eaaa41061ef280c1db1b4f2ee704de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d937187782f6ef09ff03e581433c8c54\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4449ded2de9c0e423fc399bcf5e06b4e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\62ddc68b209a85f74acb4998672ef797\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a68924989add0b89e19f48e930d04819\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:5:22-77
+application
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8174b5a02c6bfcfa6fa516112aa96e3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8174b5a02c6bfcfa6fa516112aa96e3a\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:11:9-40
+	android:allowBackup
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.alsola.proyectoseguridad.MainActivity
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.alsola.proyectoseguridad.InfoActivity
+ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:23:9-59
+	android:name
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\874f4ac562d090cde4294b22eebc76a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\874f4ac562d090cde4294b22eebc76a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\502c8f2b6878a3ea3571f4581f3cc6b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\502c8f2b6878a3ea3571f4581f3cc6b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8174b5a02c6bfcfa6fa516112aa96e3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8174b5a02c6bfcfa6fa516112aa96e3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.snatik:storage:2.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\storage-2.1.0.aar\d43d615420a594ae68c35f4b302509a6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.snatik:storage:2.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\storage-2.1.0.aar\d43d615420a594ae68c35f4b302509a6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.codekidX:storage-chooser:2.0.4.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\storage-chooser-2.0.4.2.aar\42bc4607291022b215954e9300281884\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.codekidX:storage-chooser:2.0.4.2] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\storage-chooser-2.0.4.2.aar\42bc4607291022b215954e9300281884\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\8cdfe32eb62dca9359b3e4e008deae69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\8cdfe32eb62dca9359b3e4e008deae69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2e99addcb0214b4bcce340608f35b8d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2e99addcb0214b4bcce340608f35b8d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0a53089a1bbedfc6dc0863f92a8649b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0a53089a1bbedfc6dc0863f92a8649b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ec045660ebafc164d0e375f31d210f75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ec045660ebafc164d0e375f31d210f75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0d5e4d2c3b0d0eff20700cb3886cb0c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0d5e4d2c3b0d0eff20700cb3886cb0c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\397e491df815f12d51375e2b38f768dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\397e491df815f12d51375e2b38f768dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ef3bbea47c0ef678258c48456680c14c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ef3bbea47c0ef678258c48456680c14c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e28040a5ea0845de6bdd141112abd4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e28040a5ea0845de6bdd141112abd4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\786c0816fa0aa4b5838c5653d2e70e8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\786c0816fa0aa4b5838c5653d2e70e8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\b42b6e03fb1380c0809289dbad330a35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\b42b6e03fb1380c0809289dbad330a35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ac16e3af5fb85f2bbd9187a7f3ae1a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ac16e3af5fb85f2bbd9187a7f3ae1a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f1eaaa41061ef280c1db1b4f2ee704de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f1eaaa41061ef280c1db1b4f2ee704de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d937187782f6ef09ff03e581433c8c54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d937187782f6ef09ff03e581433c8c54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4449ded2de9c0e423fc399bcf5e06b4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4449ded2de9c0e423fc399bcf5e06b4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\62ddc68b209a85f74acb4998672ef797\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\62ddc68b209a85f74acb4998672ef797\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a68924989add0b89e19f48e930d04819\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a68924989add0b89e19f48e930d04819\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jalsola\Desktop\ProyectoSeguridad\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\jalsola\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\6d3c9905db588a7392b390cb2ced8108\AndroidManifest.xml:9:13-64
